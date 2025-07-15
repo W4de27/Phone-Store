@@ -4,55 +4,55 @@
         "marque": "AGM Glory",
         "description": "AGM Glory 5G Rugged Phone 8+256G Global Version Android 11 NFC Rugged Smartphone 6200mAh Arctic Battery 6.53",
         "prix": 5165.95,
-        "img": "../src/Tp Phone Store/imgs/AGM.jpeg"
+        "img": "/Phone-Store/imgs/AGM.jpeg"
     },
     {
         "id": 2,
         "marque": "Infinix Note 11 Pro",
         "description": "Global version Infinix Note 11 Pro 8GB 128GB 6.95'' Display Smartphone Helio G96 120Hz Refresh Rate 64MP Camera 33W Super Charge",
         "prix": 4800.60,
-        "img": "../src/Tp Phone Store/imgs/infinix.jpeg"
+        "img": "/Phone-Store/imgs/infinix.jpeg"
     },
     {
         "id": 3,
         "marque": "OnePlus 9RT",
         "description": "Original OnePlus 9RT 9R T 5G Smartphone Snapdagon 888 120Hz 6.62 inches E4 AMOLED Display 65T Warp Charging 50MP Cameras Phone",
         "prix": 4329.15,
-        "img": "../src/Tp Phone Store/imgs/OnePlus.jpeg"
+        "img": "/Phone-Store/imgs/OnePlus.jpeg"
     },
     {
         "id": 4,
         "marque": "OnePlus 7 Pro",
         "description": "Global ROM Original Oneplus 7 Pro Smartphone 6.67 Inch 3120*1440 Android 9 Snapdragon 855 48.0 MP Cameras NFC 5V 6A Mobile Phone",
         "prix": 3087.23,
-        "img": "../src/Tp Phone Store/imgs/oneplus7.jpg"
+        "img": "/Phone-Store/imgs/oneplus7.jpg"
     },
     {
         "id": 5,
         "marque": "Xiaomi Redmi Note 11 Pro",
         "description": "Xiaomi Redmi Note 11 Pro 5G Smartphone 6.67'' FHD+ AMOLED Display Snapdragon 695 120Hz 108MP Camera 5000mAh Battery Global Version",
         "prix": 3500.00,
-        "img": "../src/Tp Phone Store/imgs/image5.webp"
+        "img": "/Phone-Store/imgs/image5.webp"
     },
     {
         "id": 6,
         "marque": "Samsung Galaxy S21",
         "description": "Samsung Galaxy S21 5G Smartphone 6.2'' FHD+ Dynamic AMOLED 2X Display Exynos 2100 Triple Camera 4000mAh Battery Global Version",
         "prix": 7500.00,
-        "img": "../src/Tp Phone Store/imgs/image6.jpg"
+        "img": "/Phone-Store/imgs/image6.jpg"
     },
     {
         "id": 7,
         "marque": "Apple iPhone 13",
         "description": "Apple iPhone 13 128GB Smartphone A15 Bionic Chip 6.1'' Super Retina XDR Display Dual 12MP Camera Face ID Global Version",
         "prix": 12000.00,
-        "img": "../src/Tp Phone Store/imgs/image7.webp"
+        "img": "/Phone-Store/imgs/image7.webp"
     },
     {
         "id": 8,
         "marque": "Google Pixel 6",
         "description": "Google Pixel 6 Smartphone 6.4'' AMOLED Display Google Tensor Chip 50MP Camera Titan M2 Security Chip Global Version",
         "prix": 9000.00,
-        "img": "../src/Tp Phone Store/imgs/image8.jpeg"
+        "img": "/Phone-Store/imgs/image8.jpeg"
     }
 ]
